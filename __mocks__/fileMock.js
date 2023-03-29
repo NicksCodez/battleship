@@ -1,0 +1,1 @@
+module.exports = 	est-file-stub;
